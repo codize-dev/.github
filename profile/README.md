@@ -12,8 +12,4 @@ https://codize.dev
 
 ## Sponsors
 
-<a href="https://github.com/officel"><img src="https://github.com/officel.png" width="60" /></a>
-<a href="https://github.com/henteko"><img src="https://github.com/henteko.png" width="60" /></a>
-<a href="https://github.com/maepon"><img src="https://github.com/maepon.png" width="60" /></a>
-<a href="https://github.com/kromiii"><img src="https://github.com/kromiii.png" width="60" /></a>
-<a href="https://github.com/tomostajp"><img src="https://github.com/tomostajp.png" width="60" /></a>
+https://github.com/sponsors/codize-dev
